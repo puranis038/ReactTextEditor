@@ -13,7 +13,7 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.35",
     "@types/react-router-dom": "^5.1.5",
-    "highlight.js": "^10.0.3",
+    "highlight.js": "^10.4.1",
     "markdown-it": "^10.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
